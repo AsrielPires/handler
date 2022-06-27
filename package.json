@@ -1,0 +1,16 @@
+{
+  "name": "handler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "event",
+    "handler",
+    "eventhandler"
+  ],
+  "author": "Asriel Pires",
+  "license": "ISC"
+}
